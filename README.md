@@ -3,6 +3,11 @@ This is my college project demonstration.
 We mainly focus on how the Mamba architecture work.  
 We compare Mamba and Transformer by two different text classification dataset.  
 And the cmoparisons include the accuracy and the resouce (GPU usage , training time , inference time ...)  
+
+## Dataset  
+1. IMDb (Movie Sentiment Analysis)
+2. News Category Classification（[News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset))
+
 ## Comparison Result  
 Below is the equation that calculate how much does Mamba better than Transformer on accuracy.  
 *Gain of Mamba=Mamba accuracy−Transformer accuracy*  
